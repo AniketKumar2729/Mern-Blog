@@ -1,0 +1,1 @@
+I developed a blog posting web app using the MERN stack (MongoDB, Express, React, Node.js). The app allows users to perform CRUD operations—creating, reading, updating, and deleting blog posts. It features a user-friendly interface with responsive design and smooth interaction between the frontend and backend
